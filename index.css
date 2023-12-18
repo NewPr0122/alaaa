@@ -1,0 +1,39 @@
+#outer2
+{
+    background-color:red;
+    padding:10px;
+    width:200px;
+}
+#inner2
+{
+    background-color:rgb(209, 207, 207);
+    padding:10px;
+}
+#outer1
+{
+    background-color:red;
+    padding:10px;
+    width:200px;
+}
+#inner1
+{
+    background-color:rgb(209, 207, 207);
+    padding:10px;
+}
+#outer3
+{
+    background-color:red;
+    padding:10px;
+    width:200px;
+}
+#inner3
+{
+    background-color:rgb(209, 207, 207);
+    padding:10px;
+}
+#outermostlayer
+{
+    display:flex;
+    gap:100px;
+    justify-content: center;
+}
